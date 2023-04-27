@@ -37,7 +37,7 @@ export default function RootLayout({
             <OpenFilesProvider>
               <Header />
 
-              <div className="grid grid-cols-editor max-h-full">
+              <div className="grid grid-cols-editor grid- max-h-full">
                 <Menu />
                 <Explorer />
 

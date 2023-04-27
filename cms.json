@@ -1,0 +1,34 @@
+{
+  "side-projects": [
+    {
+      "id": "1",
+      "title": "Pong game",
+      "description": "No frameworks or libraries used, only HTML, css and javascript. Fun fact, worked it out after i've watched the billion dollar code ",
+      "image": "/pong.png",
+      "link": "https://mmarcmartins.github.io/pong-js-canvas-game/",
+      "codelink": "https://github.com/mmarcmartins/Arcade-game"
+    },
+    {
+      "id": "2",
+      "title": "First react project",
+      "description": "This was my first react project for a company",
+      "image": "/bikings.png",
+      "link": "https://heuristic-gates-57a381.netlify.app/#/users",
+      "codelink": "https://github.com/mmarcmartins/bikings-api"
+    },
+    {
+      "id": "3",
+      "title": "Another TODO list",
+      "description": "In this project i've tried to understand and use firebase from google.",
+      "image": "/todolist.png",
+      "codelink": "https://github.com/mmarcmartins/firebasetodolist"
+    },
+    {
+      "id": "4",
+      "title": "Unit test training",
+      "description": "This repository was used on a unit test talk",
+      "image": "/empty.png",
+      "codelink": "https://github.com/mmarcmartins/unit-tests-training"
+    }
+  ]
+}
